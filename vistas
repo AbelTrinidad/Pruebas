@@ -1,0 +1,15 @@
+Gerente
+	- Crear, eliminar, editar y listar empleados.[Poder filtrar tambien entre los distintos empleos]
+	- CRUD de catalogos de CPUs.
+	- CRUD pedidos de compras.  
+
+Contador
+	- Ver 
+		* El stock de los depositos 1 y 2.
+		* Los de positos de produccion.
+		* Los cpus producidas.
+		* Las solicitudes de produccion. 
+		* Las ordenes de compra.
+		* Las ordenes de transferencias.
+		* Las bajas de productos.
+		* Los comprobantes de componentes.
